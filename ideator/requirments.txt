@@ -1,6 +1,6 @@
-streamlit==1.7.0
-google-auth==2.6.0
-google-auth-oauthlib==0.4.6
-google-auth-httplib2==0.4.6
-generativeai==1.0.0
+streamlit
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+generativeai
 
