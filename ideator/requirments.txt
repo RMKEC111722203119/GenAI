@@ -1,7 +1,0 @@
-streamlit
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-generativeai
-google-generative-ai
-
