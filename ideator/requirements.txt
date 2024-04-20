@@ -1,4 +1,4 @@
-streamlit
+
 google-generative-ai
 google-auth
 google-auth-oauthlib
