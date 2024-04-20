@@ -8,7 +8,7 @@ Created on Sat Apr 20 18:45:51 2024
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key=st.secrets[your_api])
+genai.configure(api_key=st.secrets["your_api"])
 
 input_prompt = """
 You are a team of scientists participating in a hackathon to develop groundbreaking solutions for real-world problems. Your task is to generate innovative ideas that can have a significant positive impact on society. Consider the following problem statement:
