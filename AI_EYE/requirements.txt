@@ -1,3 +1,4 @@
+opencv-python-headless
 opencv-python
 Pillow
 Pyttsx3
