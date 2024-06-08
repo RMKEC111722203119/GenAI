@@ -76,7 +76,7 @@ def capture_and_process_image():
     Captures video frames and calls the description function for each frame.
     """
     # Open the camera
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture()
     if not cap.isOpened():
         print("Error: Cannot open camera")
         return
