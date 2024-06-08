@@ -1,5 +1,0 @@
-opencv-python
-Pillow
-Pyttsx3
-streamlit
-google-generativeai
