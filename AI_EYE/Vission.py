@@ -47,7 +47,7 @@ def describe_image_with_gemini(image, previous_image_hash):
     image_bytes = image_bytes.getvalue()
 
     # Initialize Gemini model
-    genai.configure(api_key='AIzaSyCztLS5EXrlc1uZIEzHtJsF4aXoT4uStxM')  # Set your API key here
+    genai.configure(api_key=st.secrets["your_api"]) # Set your API key here
     model = genai.GenerativeModel('gemini-1.5-flash')
     
 
