@@ -111,8 +111,7 @@ def stlit():
     
 
     # Add a button to start the live video feed
-    if st.button("Start Live Vision"):
-        capture_and_process_image()
+    capture_and_process_image()
         
 if __name__ == "__main__":
         stlit()
