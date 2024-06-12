@@ -13,16 +13,16 @@ VikiAIVision is an advanced Python module designed to provide AI-powered insight
 Before installing Viki AI Vision, ensure Python and pip are installed on your system. Install Viki AI Vision using pip:
 
 ```bash
-pip install viki-ai-vision
+pip install vikivision
 
 ```python
-import viki_ai_vision
-viki_ai_vision.capture_and_process()```
+import vikivision
+vikivision.capture_and_process()```
 
 ```python
 //default frontend
-import viki_ai_vision
-viki_ai_vision.stlit()```
+import vikivision
+vikivision.stlit()```
 
 ```
 
