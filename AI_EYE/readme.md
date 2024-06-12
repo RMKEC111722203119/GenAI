@@ -1,6 +1,6 @@
-# Viki AI Vision Module
+# Viki AI Vision
 
-Viki AI Vision is an advanced Python module designed to provide AI-powered insights into live video feeds. By leveraging state-of-the-art machine learning algorithms, it analyzes and describes video content in real-time, making it perfect for a wide range of applications including security, education, and interactive systems.
+VikiAIVision is an advanced Python module designed to provide AI-powered insights into live video feeds. By leveraging state-of-the-art genAI  algorithms, it analyzes and describes video content in real-time, making it perfect for a wide range of applications.
 
 ## Key Features
 
