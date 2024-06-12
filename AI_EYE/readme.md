@@ -27,7 +27,7 @@ viki_ai_vision.stlit()```
 ```
 
 ## Gallery
-![demo](Screenshot 2024-06-12 204906.png)
+![demo](vission.png)
 
 For any inquiries, feel free to reach out:
 
