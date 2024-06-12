@@ -29,9 +29,6 @@ viki_ai_vision.stlit()```
 ## Gallery
 ![demo](vission.png)
 
-For any inquiries, feel free to reach out:
-
-Vigneshwaran - vign22112.it@rmkec.ac.in
 
 ## Possible Future Updates
 
@@ -53,5 +50,3 @@ For any inquiries, feel free to reach out:
 
 Vigneshwaran - vign22112.it@rmkec.ac.in
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
