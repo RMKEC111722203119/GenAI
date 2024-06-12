@@ -6,6 +6,7 @@ import io
 import pyttsx3
 import streamlit as st
 
+
 # Initialize previous_image_hash globally
 previous_image_hash = None
 
@@ -47,7 +48,7 @@ def describe_image_with_gemini(image, previous_image_hash):
     image_bytes = image_bytes.getvalue()
 
     # Initialize Gemini model
-    genai.configure(api_key=st.secrets["your_api"]) # Set your API key here
+    genai.configure(api_key='AIzaSyCztLS5EXrlc1uZIEzHtJsF4aXoT4uStxM')  # Set your API key here
     model = genai.GenerativeModel('gemini-1.5-flash')
     
 
@@ -76,9 +77,9 @@ def capture_and_process_image():
     Captures video frames and calls the description function for each frame.
     """
     # Open the camera
-    cap = cv2.VideoCapture()
+    cap = cv2.VideoCapture(0)
     if not cap.isOpened():
-        print("Error: Cannot open camera")
+        st.write("Error: Cannot open camera")
         return
     
     speak_fast("Hello I am Viki your AI assistant. I am ready to be your AI eye.")
