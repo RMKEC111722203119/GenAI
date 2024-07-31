@@ -17,5 +17,5 @@ textColor = '#fff'\n\
 " > ~/.streamlit/config.toml
 
 # Install the necessary Python packages
-pip install streamlit google-api-python-client youtube-transcript-api langchain chromadb huggingface-hub nest-asyncio
+
 
