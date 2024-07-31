@@ -11,3 +11,4 @@ sentence-transformers
 chromadb
 langchain_community
 langchain-groq
+nest-asyncio
