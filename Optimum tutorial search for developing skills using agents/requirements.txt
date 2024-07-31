@@ -1,0 +1,13 @@
+youtube-transcript-api
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-speech
+fpdf
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+chromadb
+langchain_community
+langchain-groq
