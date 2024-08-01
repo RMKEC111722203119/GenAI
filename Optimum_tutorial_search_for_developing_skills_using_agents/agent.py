@@ -18,7 +18,7 @@ import os
 nest_asyncio.apply()
 
 API_KEY = "AIzaSyA1eCKEsWwdZ_5E4xGz0JVGf-JcU2G9h_M"
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 HUGGINGFACEHUB_API_TOKEN = "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"
 
 def ytsearch(search_query):
