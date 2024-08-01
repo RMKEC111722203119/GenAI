@@ -17,7 +17,7 @@ import os
 
 nest_asyncio.apply()
 
-API_KEY = "AIzaSyASpU0qAf8xcDgZ6Wqdw-Ts8WJftF0cDFU"
+API_KEY = "AIzaSyA1eCKEsWwdZ_5E4xGz0JVGf-JcU2G9h_M"
 GROQ_API_KEY = "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"
 HUGGINGFACEHUB_API_TOKEN = "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"
 
