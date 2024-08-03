@@ -17,7 +17,7 @@ import os
 
 nest_asyncio.apply()
 
-API_KEY = st.secrets["API_KEYS "]
+API_KEY = st.secrets["API_KEYS"]
 GROQ_API_KEY = st.secrets["GROQ_API_KEYS"]
 HUGGINGFACEHUB_API_TOKEN = st.secrets["HUGGINGFACEHUB_API_TOKENS"]
 
