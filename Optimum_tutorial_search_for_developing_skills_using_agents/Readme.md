@@ -100,10 +100,6 @@ Select-Stream-AI is an innovative tool designed to help users find the most info
   - [Email](mailto:karthicktharun11@gmail.com)
 - *VIGNESHWARAN*
   - [Email](mailto:vign22112.it@rmkec.ac.in)
-- *VIKRAM*
-  - [Email](mailto:vikrxmofficial@gmail.com)
-- *TEJAKRISHNA*
-  - [Email](mailto:teja22105.it@rmkec.ac.in)
 
 ## Contributing
 
