@@ -96,10 +96,12 @@ Select-Stream-AI is an innovative tool designed to help users find the most info
 
 ## Authors
 
-- *THARUN KARTHICK*
-  - [Email](mailto:karthicktharun11@gmail.com)
 - *VIGNESHWARAN*
   - [Email](mailto:vign22112.it@rmkec.ac.in)
+
+- *THARUN KARTHICK*
+  - [Email](mailto:karthicktharun11@gmail.com)
+
 
 ## Contributing
 
