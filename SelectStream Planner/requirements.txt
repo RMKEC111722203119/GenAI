@@ -1,0 +1,8 @@
+phidata>=2.0.0
+streamlit>=1.32.0
+google-generativeai
+openai
+yfinance
+newspaper4k 
+lxml_html_clean
+
