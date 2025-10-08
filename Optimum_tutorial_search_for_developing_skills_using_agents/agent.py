@@ -121,8 +121,8 @@ def process(search_query):
 
     tools = [process_pdf_and_query_tool1, process_pdf_and_query_tool2]
 
-    llm = ChatGroq(model="llama3-8b-8192", groq_api_key=GROQ_API_KEY)
-    chat = ChatGroq(model="llama3-8b-8192", groq_api_key=GROQ_API_KEY)
+    llm = ChatGroq(model="llama-3.3-70b-versatile", groq_api_key=GROQ_API_KEY)
+    chat = ChatGroq(model="llama-3.3-70b-versatile", groq_api_key=GROQ_API_KEY)
 
     system_message = "You are a helpful assistant."
     human_message = "{text}"
